@@ -1,9 +1,9 @@
-# netflix_clone_website
+## netflix_clone_website
 **This is my netflix-clone website with many features**
 
 
 
-**The Netflix homepage welcomes users to a world of entertainment, offering a dynamic and personalized experience that caters to individual preferences. As the gateway to a vast library of movies, TV shows, documentaries, and original content, the homepage is designed to provide users with an engaging and seamless browsing experience.**
+####**The Netflix homepage welcomes users to a world of entertainment, offering a dynamic and personalized experience that caters to individual preferences. As the gateway to a vast library of movies, TV shows, documentaries, and original content, the homepage is designed to provide users with an engaging and seamless browsing experience.**
 ![image](https://github.com/hafizagithub670/netflix_clone_website/assets/139101045/78de8bdc-6d8f-4363-a825-fe2da8219f3c)
 
 
@@ -33,7 +33,7 @@
 
 
 
-**The sign-in page on Netflix is the gateway for users to access their accounts and begin their streaming experience. It serves as a secure entry point where users can provide their credentials to log in and access their personalized profiles, watch history, and content recommendations.**
+**The sign-in page on Netflix is the gateway for users to access their accounts and begin their streaming experience. It serves as a secure entry point where users can provide their credentials to log in and access their personalized profiles, watch history,and content recommendations.**
 ![image](https://github.com/hafizagithub670/netflix_clone_website/assets/139101045/22f2c7c3-d7b7-48f7-97b3-1e8d29781d83)
 
 
