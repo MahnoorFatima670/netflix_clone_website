@@ -1,5 +1,5 @@
 
-<div align="center" style="font-weight:bold">
+<div align="center" style="font-weight:bold"  style="color:red">
 
 
 ## netflix_clone_website
