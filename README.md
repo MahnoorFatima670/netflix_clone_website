@@ -1,5 +1,5 @@
-;
-<div align="center" color="red">
+
+<div align="center">
 
 
 ## netflix_clone_website
