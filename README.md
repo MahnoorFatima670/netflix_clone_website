@@ -3,7 +3,7 @@
 
 
 
-**#The Netflix homepage welcomes users to a world of entertainment, offering a dynamic and personalized experience that caters to individual preferences. As the gateway to a vast library of movies, TV shows, documentaries, and original content, the homepage is designed to provide users with an engaging and seamless browsing experience.**
+**The Netflix homepage welcomes users to a world of entertainment, offering a dynamic and personalized experience that caters to individual preferences. As the gateway to a vast library of movies, TV shows, documentaries, and original content, the homepage is designed to provide users with an engaging and seamless browsing experience.**
 ![image](https://github.com/hafizagithub670/netflix_clone_website/assets/139101045/78de8bdc-6d8f-4363-a825-fe2da8219f3c)
 
 
