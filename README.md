@@ -1,3 +1,7 @@
+
+<div align="center">
+
+
 ## netflix_clone_website
 **This is my netflix-clone website with many features**
 
@@ -41,7 +45,7 @@
 **The sign-up page on Netflix is where new users can create their accounts and begin their journey into the world of streaming entertainment. This page collects essential information from users to set up their profiles and preferences.**
 ![image](https://github.com/hafizagithub670/netflix_clone_website/assets/139101045/5c0b78ac-0e13-4745-8a33-4f886a757553)
 
-
+</div>
 
 
 
