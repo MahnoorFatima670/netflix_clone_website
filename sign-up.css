@@ -1,8 +1,9 @@
-body {
+
+ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f8f8f8;
+    background-image:url(" https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/e8a81955-6c75-4cd2-add0-5492eb26cc1f/PK-en-20230814-popsignuptwoweeks-perspective_alpha_website_medium.jpg   ") ;
  }
  
  .signup-container {
@@ -11,6 +12,9 @@ body {
     padding: 50px;
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.5); /
+    margin-top:200px;
+    color: white;
     
  }
  
